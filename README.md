@@ -18,16 +18,3 @@
 
 <hr />
 
-<p align="center">
-  <h3>Main Skills</h3>
-    <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,rust" /><br/>
-    <h4> ✅ Frameworks/Libraries: </h4>
-    <img src="https://skillicons.dev/icons?i=django,nodejs,react,next,angular,vue,nuxt,wordpress" /><br/>
-    <h4> ✅ Databases: </h4>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" /><br/>
-    <h4> ✅ Others: </h4>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,tailwind,bootstrap" /><br/>
-</p>
-
-<hr /> 
