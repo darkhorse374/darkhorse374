@@ -30,4 +30,13 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,tailwind,bootstrap" /><br/>
 </p>
 
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cboy220" alt="Cboy220" /></a> </p>  
+  
+## My Github Stats
+<div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
+<img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cboy220&show_icons=true&locale=en&layout=compact"  alt="Cboy220" />
+<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Cboy220&show_icons=true&locale=en"  alt="Cboy220" />
+</div>
+
 <hr /> 
